@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42017: Late bound resolution
+dotnet_diagnostic.BC42017.severity = none
